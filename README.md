@@ -56,7 +56,7 @@ Triangle t(3,4,5);
 <details open>
 <summary><span style="color:tomato;font-size:12px">INFO</span></summary>
 
-[//]: # (<a href="" style="margin-left:16px">REF</a>)
+Данная задача частично является продолжением решения задачи 27_4_2 
 
 </details>
 </details>
